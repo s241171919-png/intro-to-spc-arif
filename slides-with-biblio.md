@@ -42,3 +42,7 @@ Cpk for Machine 3: 0.593
 Cpk = 0.593
 
 **Conclusion:** Machine 3 is: Not Capable (Cpk < 1.33).
+
+---
+# Bibliography
+<div id="refs"></div>
